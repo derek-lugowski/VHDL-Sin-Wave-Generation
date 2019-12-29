@@ -1,0 +1,531 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/18.1
+Eaverager
+Z0 w1569964073
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/Derek Lugowski/Documents/Quartus/Lab3/Simulation/work
+Z5 8C:/Users/Derek Lugowski/Documents/Quartus/Lab3/averager.vhd
+Z6 FC:/Users/Derek Lugowski/Documents/Quartus/Lab3/averager.vhd
+l0
+L6
+VB8:2CDW`BR7l1OCmU>8;70
+!s100 SD0FhjE;VVh:AY`^Mm8L61
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1574959624
+!i10b 1
+Z9 !s108 1574959624.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Derek Lugowski/Documents/Quartus/Lab3/averager.vhd|
+Z11 !s107 C:/Users/Derek Lugowski/Documents/Quartus/Lab3/averager.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Artl
+R1
+R2
+R3
+DEx4 work 8 averager 0 22 B8:2CDW`BR7l1OCmU>8;70
+l21
+L15
+VG;7@I7_amaWiWHS^mKDW43
+!s100 YnXhfMY^K8AFmglKzVX2T2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ebinary_bcd
+R0
+R1
+R2
+R3
+R4
+Z14 8C:/Users/Derek Lugowski/Documents/Quartus/Lab3/binary_bcd.vhd
+Z15 FC:/Users/Derek Lugowski/Documents/Quartus/Lab3/binary_bcd.vhd
+l0
+L8
+Vo<z`d6o]a?hb2:1^mkKIJ0
+!s100 Ai7<aVU>PmVj]f3eOfUVA0
+R7
+32
+R8
+!i10b 1
+R9
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Derek Lugowski/Documents/Quartus/Lab3/binary_bcd.vhd|
+Z17 !s107 C:/Users/Derek Lugowski/Documents/Quartus/Lab3/binary_bcd.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R1
+R2
+R3
+DEx4 work 10 binary_bcd 0 22 o<z`d6o]a?hb2:1^mkKIJ0
+l30
+L19
+VD;;?JKhcFn293?b44B]hE0
+!s100 VS>UdhPb1_VAG?=`hPclj3
+R7
+32
+R8
+!i10b 1
+R9
+R16
+R17
+!i113 1
+R12
+R13
+Emux
+Z18 w1571869355
+R2
+R3
+R4
+Z19 8C:/Users/Derek Lugowski/Documents/Quartus/Lab3/mux.vhd
+Z20 FC:/Users/Derek Lugowski/Documents/Quartus/Lab3/mux.vhd
+l0
+L4
+V]zIcR8RT69N[TR8C3foB<0
+!s100 KYE;j=?LGE1koV7CCfGEN3
+R7
+32
+R8
+!i10b 1
+R9
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Derek Lugowski/Documents/Quartus/Lab3/mux.vhd|
+Z22 !s107 C:/Users/Derek Lugowski/Documents/Quartus/Lab3/mux.vhd|
+!i113 1
+R12
+R13
+Abehaviour
+R2
+R3
+DEx4 work 3 mux 0 22 ]zIcR8RT69N[TR8C3foB<0
+l19
+L17
+VWac?6U5hQmBERz@E8O]2j2
+!s100 <CD3Tak^0lU`<11;C8zZl3
+R7
+32
+R8
+!i10b 1
+R9
+R21
+R22
+!i113 1
+R12
+R13
+Eregisters
+Z23 w1571258478
+R2
+R3
+R4
+Z24 8C:/Users/Derek Lugowski/Documents/Quartus/Lab3/registers.vhd
+Z25 FC:/Users/Derek Lugowski/Documents/Quartus/Lab3/registers.vhd
+l0
+L11
+V81MZY6gc:`=HeHA^_`AWY3
+!s100 1Qh`j0SOHjOa?fC^SfbMJ2
+R7
+32
+R8
+!i10b 1
+R9
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Derek Lugowski/Documents/Quartus/Lab3/registers.vhd|
+Z27 !s107 C:/Users/Derek Lugowski/Documents/Quartus/Lab3/registers.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+DEx4 work 9 registers 0 22 81MZY6gc:`=HeHA^_`AWY3
+l25
+L24
+VND3iC<OmVV9_^hL?iCn_U2
+!s100 n03lWG;<7OfXg1WmILVf10
+R7
+32
+R8
+!i10b 1
+R9
+R26
+R27
+!i113 1
+R12
+R13
+Esevensegment
+Z28 w1571955677
+Z29 DPx8 synopsys 10 attributes 0 22 liCm]LV3<lX4Zl>o6^8IV1
+Z30 DPx4 ieee 14 std_logic_misc 0 22 BLzBaQbXS>Q1z>5YO]m[52
+R2
+R3
+R4
+Z31 8C:/Users/Derek Lugowski/Documents/Quartus/Lab3/SevenSegment.vhd
+Z32 FC:/Users/Derek Lugowski/Documents/Quartus/Lab3/SevenSegment.vhd
+l0
+L6
+V2GHghQCFln[TLDJ=KRmZQ0
+!s100 ^_`<8YaAeXUW7a:;:QKM41
+R7
+32
+Z33 !s110 1574959625
+!i10b 1
+Z34 !s108 1574959625.000000
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Derek Lugowski/Documents/Quartus/Lab3/SevenSegment.vhd|
+Z36 !s107 C:/Users/Derek Lugowski/Documents/Quartus/Lab3/SevenSegment.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R29
+R30
+R2
+R3
+DEx4 work 12 sevensegment 0 22 2GHghQCFln[TLDJ=KRmZQ0
+l44
+L15
+VgGR7U1<:R;niF3M9[4RfJ2
+!s100 `N;caEjdd<NlhGd87d2O<1
+R7
+32
+R33
+!i10b 1
+R34
+R35
+R36
+!i113 1
+R12
+R13
+Esevensegment_decoder
+R0
+R2
+R3
+R4
+Z37 8C:/Users/Derek Lugowski/Documents/Quartus/Lab3/SevenSegment_decoder.vhd
+Z38 FC:/Users/Derek Lugowski/Documents/Quartus/Lab3/SevenSegment_decoder.vhd
+l0
+L5
+VVlW=l2M0eeEbg:dCz4:;@0
+!s100 nVLN]dm0afJ4i1K[@D_Do2
+R7
+32
+R33
+!i10b 1
+R34
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Derek Lugowski/Documents/Quartus/Lab3/SevenSegment_decoder.vhd|
+Z40 !s107 C:/Users/Derek Lugowski/Documents/Quartus/Lab3/SevenSegment_decoder.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+DEx4 work 20 sevensegment_decoder 0 22 VlW=l2M0eeEbg:dCz4:;@0
+l14
+L13
+VC?9QIg:<Nc@7LA^50J:Ca0
+!s100 G[]U9WTmdjCPQ770:^Jn=3
+R7
+32
+R33
+!i10b 1
+R34
+R39
+R40
+!i113 1
+R12
+R13
+Etb_de10_lite
+Z41 w1570049086
+R1
+R2
+R3
+R4
+Z42 8C:/Users/Derek Lugowski/Documents/Quartus/Lab3/Simulation/tb_ADC.vhd
+Z43 FC:/Users/Derek Lugowski/Documents/Quartus/Lab3/Simulation/tb_ADC.vhd
+l0
+L6
+VmNR1mQ5KM[iH`KQe[[@?;3
+!s100 MTz4QbKkP:;b10=dokH=20
+R7
+32
+R8
+!i10b 1
+R9
+Z44 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Derek Lugowski/Documents/Quartus/Lab3/Simulation/tb_ADC.vhd|
+Z45 !s107 C:/Users/Derek Lugowski/Documents/Quartus/Lab3/Simulation/tb_ADC.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+DEx4 work 12 tb_de10_lite 0 22 mNR1mQ5KM[iH`KQe[[@?;3
+l23
+L9
+V=h4ER@b@CEj4L2DPQ8e`m3
+!s100 flNeMVWed_Qj52F]ENMcd0
+R7
+32
+R8
+!i10b 1
+R9
+R44
+R45
+!i113 1
+R12
+R13
+Etb_mux
+Z46 w1571959151
+R2
+R3
+R4
+Z47 8C:/Users/Derek Lugowski/Documents/Quartus/Lab3/Simulation/tb_mux.vhd
+Z48 FC:/Users/Derek Lugowski/Documents/Quartus/Lab3/Simulation/tb_mux.vhd
+l0
+L6
+V0z8nXZUQ35ka=d0;ZU1K[3
+!s100 PbOB2:ARGD=SAH2lg=@:g1
+R7
+32
+R8
+!i10b 1
+R9
+Z49 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Derek Lugowski/Documents/Quartus/Lab3/Simulation/tb_mux.vhd|
+Z50 !s107 C:/Users/Derek Lugowski/Documents/Quartus/Lab3/Simulation/tb_mux.vhd|
+!i113 1
+R12
+R13
+Abehaviour
+R2
+R3
+DEx4 work 6 tb_mux 0 22 0z8nXZUQ35ka=d0;ZU1K[3
+l26
+L9
+VnYR[95z`Hn9L]da]iI>lM1
+!s100 bSzB1B1=7a3RFm4>BPfNG0
+R7
+32
+R8
+!i10b 1
+R9
+R49
+R50
+!i113 1
+R12
+R13
+Etb_volt2dist
+Z51 w1571957619
+R2
+R3
+R4
+Z52 8C:/Users/Derek Lugowski/Documents/Quartus/Lab3/Simulation/tb_volt2dist.vhd
+Z53 FC:/Users/Derek Lugowski/Documents/Quartus/Lab3/Simulation/tb_volt2dist.vhd
+l0
+L6
+V`MWVao<oZNWz3X=Plz_=50
+!s100 5mPf33`RERooJTizYSkn=1
+R7
+32
+R8
+!i10b 1
+R9
+Z54 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Derek Lugowski/Documents/Quartus/Lab3/Simulation/tb_volt2dist.vhd|
+Z55 !s107 C:/Users/Derek Lugowski/Documents/Quartus/Lab3/Simulation/tb_volt2dist.vhd|
+!i113 1
+R12
+R13
+Abehaviour
+R2
+R3
+DEx4 work 12 tb_volt2dist 0 22 `MWVao<oZNWz3X=Plz_=50
+l25
+L9
+VRCc`<W;TZTboFj4PY:ZEg3
+!s100 cCWo820@lahM`_Fzb::Yf3
+R7
+32
+R8
+!i10b 1
+R9
+R54
+R55
+!i113 1
+R12
+R13
+Etb_voltmeter
+Z56 w1571957689
+R2
+R3
+R4
+Z57 8C:/Users/Derek Lugowski/Documents/Quartus/Lab3/Simulation/tb_voltmeter.vhd
+Z58 FC:/Users/Derek Lugowski/Documents/Quartus/Lab3/Simulation/tb_voltmeter.vhd
+l0
+L6
+VY0Cbmgh6i::o5A_l3]e@[2
+!s100 Re=YI@;cL@^jM1m;^4_5S3
+R7
+32
+R8
+!i10b 1
+R9
+Z59 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Derek Lugowski/Documents/Quartus/Lab3/Simulation/tb_voltmeter.vhd|
+Z60 !s107 C:/Users/Derek Lugowski/Documents/Quartus/Lab3/Simulation/tb_voltmeter.vhd|
+!i113 1
+R12
+R13
+Abehaviour
+R2
+R3
+DEx4 work 12 tb_voltmeter 0 22 Y0Cbmgh6i::o5A_l3]e@[2
+l29
+L9
+VX<ZiXX8TokA0V`L00IM^J1
+!s100 ;OlfIR7GmH1U?;aG0i:3=0
+R7
+32
+R8
+!i10b 1
+R9
+R59
+R60
+!i113 1
+R12
+R13
+Etest_de10_lite
+Z61 w1569964074
+R2
+R3
+R4
+Z62 8C:/Users/Derek Lugowski/Documents/Quartus/Lab3/Simulation/test_ADC.vhd
+Z63 FC:/Users/Derek Lugowski/Documents/Quartus/Lab3/Simulation/test_ADC.vhd
+l0
+L6
+VV@Q5GZFH]EZ[NWnbbL5E<1
+!s100 72N:e;ZbWmel4[3]E_PHT0
+R7
+32
+R8
+!i10b 1
+R9
+Z64 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Derek Lugowski/Documents/Quartus/Lab3/Simulation/test_ADC.vhd|
+Z65 !s107 C:/Users/Derek Lugowski/Documents/Quartus/Lab3/Simulation/test_ADC.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R2
+R3
+DEx4 work 14 test_de10_lite 0 22 V@Q5GZFH]EZ[NWnbbL5E<1
+l15
+L12
+VA8<BNdU5n;R9o1]o8No]E3
+!s100 FeHTfnb>k6a0V3LN0cg8b1
+R7
+32
+R8
+!i10b 1
+R9
+R64
+R65
+!i113 1
+R12
+R13
+Evolt2dist
+Z66 w1571951249
+R1
+R2
+R3
+R4
+Z67 8C:/Users/Derek Lugowski/Documents/Quartus/Lab3/volt2dist.vhd
+Z68 FC:/Users/Derek Lugowski/Documents/Quartus/Lab3/volt2dist.vhd
+l0
+L5
+V]<Pa>F0HMmCEAWJQ1JTLR3
+!s100 TmOLf7F4A17DV]9DGM__C2
+R7
+32
+R33
+!i10b 1
+R34
+Z69 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Derek Lugowski/Documents/Quartus/Lab3/volt2dist.vhd|
+Z70 !s107 C:/Users/Derek Lugowski/Documents/Quartus/Lab3/volt2dist.vhd|
+!i113 1
+R12
+R13
+Alookuptable
+R1
+R2
+R3
+DEx4 work 9 volt2dist 0 22 ]<Pa>F0HMmCEAWJQ1JTLR3
+l4118
+L12
+V@9YEE?hY5UX_^Hj?URIno1
+!s100 nf1meD?@_[ZClTPj;5FLA2
+R7
+32
+R33
+!i10b 1
+R34
+R69
+R70
+!i113 1
+R12
+R13
+Evoltmeter
+Z71 w1572322255
+R1
+R2
+R3
+R4
+Z72 8C:/Users/Derek Lugowski/Documents/Quartus/Lab3/voltmeter.vhd
+Z73 FC:/Users/Derek Lugowski/Documents/Quartus/Lab3/voltmeter.vhd
+l0
+L5
+V22=fA23F@nh986J9db;E<3
+!s100 6YKON=X`N[RY[LDA`gHF:1
+R7
+32
+R33
+!i10b 1
+R34
+Z74 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Derek Lugowski/Documents/Quartus/Lab3/voltmeter.vhd|
+Z75 !s107 C:/Users/Derek Lugowski/Documents/Quartus/Lab3/voltmeter.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+Z76 DEx4 work 9 voltmeter 0 22 22=fA23F@nh986J9db;E<3
+l102
+L17
+V8eBCo0o?Xz<l^P=o5gBi_1
+!s100 [R>Qib98]EJlSVX7DUhC32
+R7
+32
+R33
+!i10b 1
+R34
+R74
+R75
+!i113 1
+R12
+R13

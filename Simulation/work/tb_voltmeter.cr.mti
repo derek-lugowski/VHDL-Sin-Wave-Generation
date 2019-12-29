@@ -1,0 +1,114 @@
+{C:/Users/Derek Lugowski/Documents/Quartus/Lab3/registers.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Derek Lugowski/Documents/Quartus/Lab3/registers.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity registers
+-- Compiling architecture rtl of registers
+
+} {} {}} {C:/Users/Derek Lugowski/Documents/Quartus/Lab3/Simulation/tb_ADC.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:/Users/Derek Lugowski/Documents/Quartus/Lab3/Simulation/tb_ADC.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity tb_DE10_Lite
+-- Compiling architecture Behavioral of tb_DE10_Lite
+** Warning: C:/Users/Derek Lugowski/Documents/Quartus/Lab3/Simulation/tb_ADC.vhd(10): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {C:/Users/Derek Lugowski/Documents/Quartus/Lab3/voltmeter.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Derek Lugowski/Documents/Quartus/Lab3/voltmeter.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Voltmeter
+-- Compiling architecture Behavioral of Voltmeter
+
+} {} {}} {C:/Users/Derek Lugowski/Documents/Quartus/Lab3/Simulation/test_ADC.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Derek Lugowski/Documents/Quartus/Lab3/Simulation/test_ADC.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity test_DE10_Lite
+-- Compiling architecture behavior of test_DE10_Lite
+
+} {} {}} {C:/Users/Derek Lugowski/Documents/Quartus/Lab3/Simulation/tb_voltmeter.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:/Users/Derek Lugowski/Documents/Quartus/Lab3/Simulation/tb_voltmeter.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_voltmeter
+-- Compiling architecture behaviour of tb_voltmeter
+** Warning: C:/Users/Derek Lugowski/Documents/Quartus/Lab3/Simulation/tb_voltmeter.vhd(10): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {C:/Users/Derek Lugowski/Documents/Quartus/Lab3/volt2dist.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Derek Lugowski/Documents/Quartus/Lab3/volt2dist.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity volt2dist
+-- Compiling architecture lookupTable of volt2dist
+
+} {} {}} {C:/Users/Derek Lugowski/Documents/Quartus/Lab3/Simulation/tb_volt2dist.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Derek Lugowski/Documents/Quartus/Lab3/Simulation/tb_volt2dist.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_volt2dist
+-- Compiling architecture behaviour of tb_volt2dist
+
+} {} {}} {C:/Users/Derek Lugowski/Documents/Quartus/Lab3/SevenSegment.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Derek Lugowski/Documents/Quartus/Lab3/SevenSegment.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package ATTRIBUTES
+-- Loading package std_logic_misc
+-- Compiling entity SevenSegment
+-- Compiling architecture Behavioral of SevenSegment
+
+} {} {}} {C:/Users/Derek Lugowski/Documents/Quartus/Lab3/averager.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Derek Lugowski/Documents/Quartus/Lab3/averager.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity averager
+-- Compiling architecture rtl of averager
+
+} {} {}} {C:/Users/Derek Lugowski/Documents/Quartus/Lab3/binary_bcd.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Derek Lugowski/Documents/Quartus/Lab3/binary_bcd.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity binary_bcd
+-- Compiling architecture behavior of binary_bcd
+
+} {} {}} {C:/Users/Derek Lugowski/Documents/Quartus/Lab3/SevenSegment_decoder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Derek Lugowski/Documents/Quartus/Lab3/SevenSegment_decoder.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity SevenSegment_decoder
+-- Compiling architecture Behavioral of SevenSegment_decoder
+
+} {} {}} {C:/Users/Derek Lugowski/Documents/Quartus/Lab3/mux.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Derek Lugowski/Documents/Quartus/Lab3/mux.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux
+-- Compiling architecture behaviour of mux
+
+} {} {}} {C:/Users/Derek Lugowski/Documents/Quartus/Lab3/Simulation/tb_mux.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Derek Lugowski/Documents/Quartus/Lab3/Simulation/tb_mux.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_mux
+-- Compiling architecture behaviour of tb_mux
+
+} {} {}}

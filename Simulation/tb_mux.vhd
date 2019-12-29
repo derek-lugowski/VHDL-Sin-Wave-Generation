@@ -1,0 +1,61 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+
+
+
+entity tb_mux is
+end tb_mux;
+
+architecture behaviour of tb_mux is 
+
+
+component mux is
+    Port ( 
+	 
+	 sel: in std_logic;
+	 A: in std_logic_vector(15 downto 0); --
+	 B: in std_logic_vector(15 downto 0);
+	 C: out std_logic_vector(15 downto 0)
+          );
+           
+end component;
+
+signal sel: std_logic;
+signal A, B, C: std_logic_vector(15 downto 0);
+
+begin
+
+uut_mux: mux PORT MAP(
+
+sel => sel,
+A => A,
+B => B,
+C => C
+
+
+);
+
+mux_process: process 
+begin
+wait for 1000 ns;
+sel <= '0';
+B <= (others => '1');
+A <= (others => '0');
+wait for 1000 ns;
+sel <= '1'; 
+wait for 1000 ns;
+sel <= '0';
+wait for 1000 ns;
+B <= (others => '0');
+wait for 1000 ns;
+A <= (others => '1');
+wait for 1000 ns;
+sel <= '1';
+wait for 1000 ns;
+
+end process;
+
+end behaviour;
+
+
+

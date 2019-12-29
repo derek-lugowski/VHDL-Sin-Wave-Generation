@@ -1,0 +1,48 @@
+Info: Starting: Create block symbol file (.bsf)
+Info: qsys-generate "C:\Users\askar\Dropbox (CaPES)\ENEL 453 Altera\LAB2_new\Lab2 - Denis\adc_qsys.qsys" --block-symbol-file --output-directory="C:\Users\askar\Dropbox (CaPES)\ENEL 453 Altera\LAB2_new\Lab2 - Denis\adc_qsys" --family="MAX 10" --part=10M50DAF484C7G
+Progress: Loading Lab2 - Denis/adc_qsys.qsys
+Progress: Reading input file
+Progress: Adding altpll_sys [altpll 18.1]
+Progress: Parameterizing module altpll_sys
+Progress: Adding clk_50 [clock_source 18.1]
+Progress: Parameterizing module clk_50
+Progress: Adding clock_bridge_sys [altera_clock_bridge 18.1]
+Progress: Parameterizing module clock_bridge_sys
+Progress: Adding modular_adc_0 [altera_modular_adc 18.1]
+Progress: Parameterizing module modular_adc_0
+Progress: Building connections
+Progress: Parameterizing connections
+Progress: Validating
+Progress: Done reading input file
+Warning: adc_qsys.altpll_sys: altpll_sys.areset_conduit must be exported, or connected to a matching conduit.
+Warning: adc_qsys.altpll_sys: altpll_sys.pll_slave must be connected to an Avalon-MM master
+Info: qsys-generate succeeded.
+Info: Finished: Create block symbol file (.bsf)
+Info: 
+Info: Starting: Create HDL design files for synthesis
+Info: qsys-generate "C:\Users\askar\Dropbox (CaPES)\ENEL 453 Altera\LAB2_new\Lab2 - Denis\adc_qsys.qsys" --synthesis=VERILOG --output-directory="C:\Users\askar\Dropbox (CaPES)\ENEL 453 Altera\LAB2_new\Lab2 - Denis\adc_qsys\synthesis" --family="MAX 10" --part=10M50DAF484C7G
+Progress: Loading Lab2 - Denis/adc_qsys.qsys
+Progress: Reading input file
+Progress: Adding altpll_sys [altpll 18.1]
+Progress: Parameterizing module altpll_sys
+Progress: Adding clk_50 [clock_source 18.1]
+Progress: Parameterizing module clk_50
+Progress: Adding clock_bridge_sys [altera_clock_bridge 18.1]
+Progress: Parameterizing module clock_bridge_sys
+Progress: Adding modular_adc_0 [altera_modular_adc 18.1]
+Progress: Parameterizing module modular_adc_0
+Progress: Building connections
+Progress: Parameterizing connections
+Progress: Validating
+Progress: Done reading input file
+Warning: adc_qsys.altpll_sys: altpll_sys.areset_conduit must be exported, or connected to a matching conduit.
+Warning: adc_qsys.altpll_sys: altpll_sys.pll_slave must be connected to an Avalon-MM master
+Info: adc_qsys: Generating adc_qsys "adc_qsys" for QUARTUS_SYNTH
+Warning: Can't contact license server "6066@nwt" -- this server will be ignored.
+Info: altpll_sys: "adc_qsys" instantiated altpll "altpll_sys"
+Info: modular_adc_0: "adc_qsys" instantiated altera_modular_adc "modular_adc_0"
+Info: rst_controller: "adc_qsys" instantiated altera_reset_controller "rst_controller"
+Info: control_internal: "modular_adc_0" instantiated altera_modular_adc_control "control_internal"
+Info: adc_qsys: Done "adc_qsys" with 5 modules, 13 files
+Info: qsys-generate succeeded.
+Info: Finished: Create HDL design files for synthesis
