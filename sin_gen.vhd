@@ -1,8 +1,16 @@
+--Lab5 project for ENEL453
+--Authors:
+--Derek Lugowski
+--Sarah Price
+
+
+--Top level design file:
+
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 use ieee.numeric_std.all;
  
-entity sin_gen is --Big picture, inputs and outputs to real world
+entity sin_gen is
     Port ( clk                           : in  STD_LOGIC; --"single wire"
            reset                         : in  STD_LOGIC; --"single wire"
            LEDR                          : out STD_LOGIC_VECTOR (9 downto 0); --vector with 10 elements
